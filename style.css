@@ -1,0 +1,95 @@
+*{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+.hasib{
+    
+    
+     height: 70vh;
+     margin-top: 100px;
+     background-color: rgb(2, 93, 2);
+     width: 100%;
+     
+
+    
+    
+} 
+.icon,.shot{
+    display: inline-block;
+    
+}
+.a,.b,.c,.d,.e,.f{
+    flex-direction: row;
+}
+.w{
+    width: 300px;
+    height: 60vh;
+  
+  margin-left: 5px;
+    
+}
+.x{
+    width: 300px;
+    height: 60vh;
+   
+    margin-left: 60px;
+   
+
+    
+}
+.y{
+    width: 500px;
+    height: 60vh;
+    
+    margin-left: 40px;
+  
+   
+}
+    .w,.x,.y{
+    display:table-cell;
+    
+    
+    }
+    .nirob{
+       
+        margin-left: 86px;
+        margin-right: 40px;
+        height: 70vh;
+       
+}
+.lot{
+    font-size: 22px;
+    color:greenyellow
+}
+.cot{
+    color:rgba(255, 255, 255, 0.705);
+}
+.pot{
+    color: white;
+}
+.icon{
+    color: greenyellow;
+}
+.shot{
+    color: white;
+}
+.not{
+    color: white;
+}
+
+.pas{
+
+    color:rgba(255, 255, 255, 0.705);
+}
+.gmail{
+    color: white;
+}
+.us,.gmail{
+    display: inline-block;
+}
+.us{
+    color:rgba(255, 255, 255, 0.705);
+}
+.line{
+    color: rgba(255, 255, 255, 0.705);
+}
